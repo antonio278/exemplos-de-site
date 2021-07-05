@@ -1,0 +1,45 @@
+body,html{
+    
+    height: 100%;
+    margin: 0;
+    
+}
+.bg{
+    background-image: url('OIP.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:rgb(241, 235, 235);
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-position: center;
+    background-attachment: fixed;
+}
+.titulo{
+    text-align: center;
+    color: black;
+    margin-top: 20%;
+}
+
+.conteudo{
+    text-align: center;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-bottom: 20%;
+    
+    
+}
+main{
+    max-width: 800px;
+    background:#0000008c;
+    background-attachment: fixed ;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-radius: 20px;
+    
+
+    
+}
